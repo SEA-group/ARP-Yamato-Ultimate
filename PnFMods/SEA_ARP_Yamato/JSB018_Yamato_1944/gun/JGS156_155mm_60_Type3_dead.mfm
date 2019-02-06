@@ -1,0 +1,17 @@
+<JGS156_155mm_60_Type3_dead.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGS156_155mm_60_Type3_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGS156_155mm_60_Type3_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGS156_155mm_60_Type3_n.dds	</Texture>
+	</property>
+</JGS156_155mm_60_Type3_dead.mfm>

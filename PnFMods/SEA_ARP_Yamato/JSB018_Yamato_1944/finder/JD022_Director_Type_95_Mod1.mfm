@@ -1,0 +1,17 @@
+<JD022_Director_Type_95_Mod1.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/JD022_Director_Type_95_Mod1_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/JD022_Director_Type_95_Mod1_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/JD022_Director_Type_95_Mod1_a.dds	</Texture>
+	</property>
+</JD022_Director_Type_95_Mod1.mfm>

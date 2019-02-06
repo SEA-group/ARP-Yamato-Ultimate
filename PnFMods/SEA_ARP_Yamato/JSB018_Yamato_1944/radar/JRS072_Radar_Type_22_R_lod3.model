@@ -1,1 +1,17 @@
-<JRS072_Radar_Type_22_R_lod3.model><action><name>idle</name><animation>JRS072_Radar_Type_22_R</animation><filler>true</filler></action><extent>30.000000</extent><animation><name>JRS072_Radar_Type_22_R</name><frameRate>30.000000</frameRate><nodes>content/animation/common/JRS072_Radar_Type_22_R</nodes></animation><castsShadow>false</castsShadow><exporter>1.5</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS072_Radar_Type_22_R_lod3</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JRS072_Radar_Type_22_R_lod3.model>
+<JRS072_Radar_Type_22_R_lod3.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	JRS072_Radar_Type_22_R	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	30.000000	</extent>
+	<animation>
+		<name>	JRS072_Radar_Type_22_R	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/JRS072_Radar_Type_22_R	</nodes>
+	</animation>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS072_Radar_Type_22_R_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS072_Radar_Type_22_R_lod3.model>

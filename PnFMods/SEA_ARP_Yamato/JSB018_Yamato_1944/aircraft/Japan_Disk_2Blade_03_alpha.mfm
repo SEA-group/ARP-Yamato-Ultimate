@@ -1,0 +1,14 @@
+<Japan_Disk_2Blade_03_alpha.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/Japan_Disk_2Blade_03_a.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	false	</Bool>
+	</property>
+</Japan_Disk_2Blade_03_alpha.mfm>

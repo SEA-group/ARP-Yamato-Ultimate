@@ -1,1 +1,12 @@
-<JSB018_Yamato_1944_Bow_lod3.model><castsShadow>false</castsShadow><materialNames /><visibilityBox><min>-0.807175 -0.719097 0.629122</min><max>0.846198 0.614961 4.576807</max></visibilityBox><extent>400.0000</extent><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_Bow_lod3</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JSB018_Yamato_1944_Bow_lod3.model>
+<JSB018_Yamato_1944_Bow_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.807175 -0.719097 0.629122	</min>
+		<max>	0.846198 0.614961 4.576807	</max>
+	</visibilityBox>
+	<extent>	400.0000	</extent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_Bow_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSB018_Yamato_1944_Bow_lod3.model>

@@ -1,1 +1,13 @@
-<JSB018_Yamato_1944_Stern.model><castsShadow>true</castsShadow><extent>15.0000</extent><parent>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_Stern_lod1</parent><materialNames /><visibilityBox><min>-1.310683 -0.726027 -4.433540</min><max>1.310682 0.975407 1.004143</max></visibilityBox><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_Stern</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JSB018_Yamato_1944_Stern.model>
+<JSB018_Yamato_1944_Stern.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	15.0000	</extent>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_Stern_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-1.310683 -0.726027 -4.433540	</min>
+		<max>	1.310682 0.975407 1.004143	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_Stern	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSB018_Yamato_1944_Stern.model>

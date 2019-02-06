@@ -1,1 +1,12 @@
-<JC001_Catapult_Shiki2_lod3.model><castsShadow>false</castsShadow><extent>150.000000</extent><materialNames /><visibilityBox><min>-0.085248 -0.000530 -0.554761</min><max>0.090453 0.200437 0.768136</max></visibilityBox><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/catapult/JC001_Catapult_Shiki2_lod3</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JC001_Catapult_Shiki2_lod3.model>
+<JC001_Catapult_Shiki2_lod3.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	150.000000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.085248 -0.000530 -0.554761	</min>
+		<max>	0.090453 0.200437 0.768136	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/catapult/JC001_Catapult_Shiki2_lod3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JC001_Catapult_Shiki2_lod3.model>

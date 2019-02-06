@@ -1,1 +1,13 @@
-<JSB018_Yamato_1944_MidFront_lod2.model><castsShadow>true</castsShadow><extent>80.0000</extent><parent>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_MidFront_lod3</parent><materialNames /><visibilityBox><min>-1.339589 -0.716196 -2.451766</min><max>1.333330 0.975854 2.649741</max></visibilityBox><exporter>1.6</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_MidFront_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JSB018_Yamato_1944_MidFront_lod2.model>
+<JSB018_Yamato_1944_MidFront_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	80.0000	</extent>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_MidFront_lod3	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-1.339589 -0.716196 -2.451766	</min>
+		<max>	1.333330 0.975854 2.649741	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB018_Yamato_1944_MidFront_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSB018_Yamato_1944_MidFront_lod2.model>

@@ -1,1 +1,23 @@
-<JRS071_Radar_Type_22_L.model><action><name>idle</name><animation>JRS071_Radar_Type_22_L</animation><filler>true</filler></action><extent>3.000000</extent><parent>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS071_Radar_Type_22_L_lod1</parent><materialNames /><visibilityBox><min>-0.050436 0.000223 -0.059373</min><max>0.038476 0.094050 0.069614</max></visibilityBox><animation><name>JRS071_Radar_Type_22_L</name><frameRate>30.000000</frameRate><nodes>content/animation/common/JRS071_Radar_Type_22_L</nodes></animation><castsShadow>false</castsShadow><exporter>1.5</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS071_Radar_Type_22_L</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JRS071_Radar_Type_22_L.model>
+<JRS071_Radar_Type_22_L.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	JRS071_Radar_Type_22_L	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	3.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS071_Radar_Type_22_L_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.050436 0.000223 -0.059373	</min>
+		<max>	0.038476 0.094050 0.069614	</max>
+	</visibilityBox>
+	<animation>
+		<name>	JRS071_Radar_Type_22_L	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/JRS071_Radar_Type_22_L	</nodes>
+	</animation>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS071_Radar_Type_22_L	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS071_Radar_Type_22_L.model>

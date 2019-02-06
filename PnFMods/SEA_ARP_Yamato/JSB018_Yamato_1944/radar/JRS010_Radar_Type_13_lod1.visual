@@ -1,1 +1,74 @@
-<JRS010_Radar_Type_13_lod1.visual><boundingBox><min>-0.066870 -0.000192 -0.019897</min><max>0.066530 0.312030 0.026890</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Root</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y</identifier><transform><row0>-0.989662 0.000000 -0.143419 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.143419 0.000000 -0.989662 0.000000</row2><row3>0.000000 0.033350 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 -0.033350 0.000000 1.000000</row3></transform></node></node><node><identifier>Root_BlendBone</identifier><transform><row0>-0.989662 0.000000 -0.143419 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-0.143419 0.000000 0.989662 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Radar</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>true</treatAsWorldSpaceObject><node>Rotate_Y_BlendBone</node><geometry><vertices>Radar_lodShape1.vertices</vertices><primitive>Radar_lodShape1.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_radar</identifier><mfm>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/583e0529710da8d9a54393a3587d68cb.mfm</mfm></material></primitiveGroup></geometry></renderSet></JRS010_Radar_Type_13_lod1.visual>
+<JRS010_Radar_Type_13_lod1.visual>
+	<boundingBox>
+		<min>	-0.066870 -0.000192 -0.019897	</min>
+		<max>	0.066530 0.312030 0.026890	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Rotate_Y	</identifier>
+				<transform>
+					<row0>	-0.989662 0.000000 -0.143419 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.143419 0.000000 -0.989662 0.000000	</row2>
+					<row3>	0.000000 0.033350 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Rotate_Y_BlendBone	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	0.000000 -0.033350 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	-0.989662 0.000000 -0.143419 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-0.143419 0.000000 0.989662 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+		<node>
+			<identifier>	Radar	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Rotate_Y_BlendBone	</node>
+		<geometry>
+			<vertices>	Radar_lodShape1.vertices	</vertices>
+			<primitive>	Radar_lodShape1.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JRS010_Radar_Type_13_lod1.visual>

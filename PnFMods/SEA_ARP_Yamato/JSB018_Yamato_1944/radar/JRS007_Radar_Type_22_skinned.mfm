@@ -1,0 +1,17 @@
+<JRS007_Radar_Type_22_skinned.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS007_Radar_Type_22_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS007_Radar_Type_22_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS007_Radar_Type_22_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/default_ao.dds	</Texture>
+	</property>
+</JRS007_Radar_Type_22_skinned.mfm>

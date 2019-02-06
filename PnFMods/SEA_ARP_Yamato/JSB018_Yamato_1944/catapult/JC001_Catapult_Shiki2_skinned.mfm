@@ -1,0 +1,17 @@
+<JC001_Catapult_Shiki2_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/catapult/JC001_Catapult_Shiki2_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/catapult/JC001_Catapult_Shiki2_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/catapult/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/catapult/JC001_Catapult_Shiki2_mg.dds	</Texture>
+	</property>
+</JC001_Catapult_Shiki2_skinned.mfm>

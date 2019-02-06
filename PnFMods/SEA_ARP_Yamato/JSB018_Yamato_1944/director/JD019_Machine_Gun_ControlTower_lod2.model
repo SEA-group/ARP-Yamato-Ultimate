@@ -1,1 +1,13 @@
-<JD019_Machine_Gun_ControlTower_lod2.model><castsShadow>false</castsShadow><extent>16.000000</extent><parent>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD019_Machine_Gun_ControlTower_lod3</parent><materialNames /><visibilityBox><min>-0.067167 0.000088 -0.065254</min><max>0.067446 0.111651 0.071499</max></visibilityBox><exporter>1.5</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD019_Machine_Gun_ControlTower_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JD019_Machine_Gun_ControlTower_lod2.model>
+<JD019_Machine_Gun_ControlTower_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	16.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD019_Machine_Gun_ControlTower_lod3	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.067167 0.000088 -0.065254	</min>
+		<max>	0.067446 0.111651 0.071499	</max>
+	</visibilityBox>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD019_Machine_Gun_ControlTower_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD019_Machine_Gun_ControlTower_lod2.model>

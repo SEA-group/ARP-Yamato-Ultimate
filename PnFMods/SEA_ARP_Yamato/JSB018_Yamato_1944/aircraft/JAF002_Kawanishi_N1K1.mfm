@@ -1,0 +1,20 @@
+<JAF002_Kawanishi_N1K1.mfm>
+	<fx>	shaders/std_effects/PBS_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/JAF002_Kawanishi_N1K1_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/JAF002_Kawanishi_N1K1_n.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/JAF002_Kawanishi_N1K1_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/default_ao.tga	</Texture>
+	</property>
+</JAF002_Kawanishi_N1K1.mfm>

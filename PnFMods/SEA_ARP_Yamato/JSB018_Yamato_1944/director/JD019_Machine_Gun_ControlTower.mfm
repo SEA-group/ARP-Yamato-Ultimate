@@ -1,0 +1,17 @@
+<JD019_Machine_Gun_ControlTower.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD019_Machine_Gun_ControlTower_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD019_Machine_Gun_ControlTower_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD019_Machine_Gun_ControlTower_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/default_ao.dds	</Texture>
+	</property>
+</JD019_Machine_Gun_ControlTower.mfm>

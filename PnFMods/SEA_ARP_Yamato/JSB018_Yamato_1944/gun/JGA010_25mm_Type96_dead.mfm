@@ -1,0 +1,26 @@
+<JGA010_25mm_Type96_dead.mfm>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA010_25mm_Type96_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA010_25mm_Type96_dead_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA010_25mm_Type96_n.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	0	</Int>
+	</property>
+</JGA010_25mm_Type96_dead.mfm>

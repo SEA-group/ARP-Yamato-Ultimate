@@ -1,1 +1,13 @@
-<JF017_Rangefinder_4_5m_lod1.model><castsShadow>false</castsShadow><extent>7.000000</extent><parent>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/JF017_Rangefinder_4_5m_lod2</parent><materialNames /><visibilityBox><min>-0.189082 0.000050 -0.109805</min><max>0.189235 0.121728 0.110187</max></visibilityBox><exporter>1.5</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/JF017_Rangefinder_4_5m_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JF017_Rangefinder_4_5m_lod1.model>
+<JF017_Rangefinder_4_5m_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	7.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/JF017_Rangefinder_4_5m_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.189082 0.000050 -0.109805	</min>
+		<max>	0.189235 0.121728 0.110187	</max>
+	</visibilityBox>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/finder/JF017_Rangefinder_4_5m_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF017_Rangefinder_4_5m_lod1.model>

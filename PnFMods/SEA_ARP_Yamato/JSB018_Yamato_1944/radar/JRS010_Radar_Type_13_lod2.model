@@ -1,1 +1,23 @@
-<JRS010_Radar_Type_13_lod2.model><castsShadow>false</castsShadow><action><name>idle</name><animation>Rotation2rpm</animation><filler>true</filler></action><extent>12.000000</extent><parent>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_lod3</parent><animation><name>Rotation2rpm</name><frameRate>30.000000</frameRate><nodes>content/animation/common/Rotation2rpm</nodes></animation><materialNames /><visibilityBox><min>-0.046979 -0.000192 -0.046979</min><max>0.046979 0.312030 0.046979</max></visibilityBox><exporter>1.5</exporter><nodefullVisual>PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></JRS010_Radar_Type_13_lod2.model>
+<JRS010_Radar_Type_13_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation2rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	12.000000	</extent>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_lod3	</parent>
+	<animation>
+		<name>	Rotation2rpm	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/Rotation2rpm	</nodes>
+	</animation>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.046979 -0.000192 -0.046979	</min>
+		<max>	0.046979 0.312030 0.046979	</max>
+	</visibilityBox>
+	<exporter>	1.5	</exporter>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/JRS010_Radar_Type_13_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS010_Radar_Type_13_lod2.model>
