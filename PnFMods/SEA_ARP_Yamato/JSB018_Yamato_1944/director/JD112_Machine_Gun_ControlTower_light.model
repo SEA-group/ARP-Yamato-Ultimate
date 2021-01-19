@@ -1,0 +1,7 @@
+<JD112_Machine_Gun_ControlTower_light.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/lods/JD112_Machine_Gun_ControlTower_light_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD112_Machine_Gun_ControlTower_light	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD112_Machine_Gun_ControlTower_light.model>

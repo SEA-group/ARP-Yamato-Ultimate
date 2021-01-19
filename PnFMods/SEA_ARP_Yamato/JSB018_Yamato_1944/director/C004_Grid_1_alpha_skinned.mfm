@@ -1,7 +1,6 @@
 <C004_Grid_1_alpha_skinned.mfm>
 	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
-	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/C004_Grid_1_alpha_a.dds	</Texture>
 	</property>

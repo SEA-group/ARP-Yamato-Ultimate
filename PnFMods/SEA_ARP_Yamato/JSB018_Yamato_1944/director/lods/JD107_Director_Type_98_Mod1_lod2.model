@@ -1,0 +1,7 @@
+<JD107_Director_Type_98_Mod1_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/lods/JD107_Director_Type_98_Mod1_lod3	</parent>
+	<extent>	12.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/lods/JD107_Director_Type_98_Mod1_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD107_Director_Type_98_Mod1_lod2.model>

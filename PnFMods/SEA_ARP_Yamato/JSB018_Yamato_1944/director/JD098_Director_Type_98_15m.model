@@ -1,8 +1,7 @@
 <JD098_Director_Type_98_15m.model>
-	<exporter>	1.6	</exporter>
 	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/lods/JD098_Director_Type_98_15m_lod1	</parent>
 	<extent>	3.0000	</extent>
-	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD098_Director_Type_98_15m_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD098_Director_Type_98_15m	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JD098_Director_Type_98_15m.model>

@@ -1,24 +1,13 @@
 ﻿# ARP I-401 (Combined; Yamato)
 
-======================Presented by SEA group======================
+Skin modification for tier 10 battleship **Yamato**. 
 
-Installation: 
-Copy "content"(optional), "PnFMods", "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
+Presented by SEA group
 
-安装：
-将content、PnFMods和PnFModsLoader.py复制到/res_mods/a.b.c.d(当前客户端版本号)/
+## Installation
+* **For WGC users**, copy `content`(optional), `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/bin/[largest number]/res_mods/`
+* **For Steam users**, copy `content`(optional), `PnFMods` and `PnFModsLoader.py` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/`
 
-============================Credits===============================
-
-Authors: Woodman, Yuntian, FABAJI, AstreTunes
-Special thanks to "when you're the rose" for helping us to make models
-
-I401 MMD model credit to touhu (https://twitter.com/@touhu63635962)
-
-===========================Attention!=============================
-
-This mod will make your ship extremely stupid when put in water.
-
-=============================ぽい?================================
-
-ぽいぽいぽーいぽい、ぽいぽいっぽーい!
+## 使用方法
+* **WG游戏中心用户**请把`content`、`PnFMods`和`PnFModsLoader.py`放到`[游戏安装目录]/bin/[数字最大的那个]/res_mods/`里面
+* **Steam客户端用户**请把`content`、`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/`里面

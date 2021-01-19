@@ -1,0 +1,211 @@
+<JGM178_460mm_45_Type94_lod1.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Rotate_Y	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0333 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_JGA_1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	-0.2401 0.2284 -0.2437 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_JGA_2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.2401 0.2284 -0.2437 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM331_Deck_Hatch_8	</identifier>
+					<transform>
+						<row0>	-0.0892 0.0594 -0.9942 0.0000	</row0>
+						<row1>	0.0000 0.9982 0.0597 0.0000	</row1>
+						<row2>	0.9960 0.0053 -0.0891 0.0000	</row2>
+						<row3>	-0.0826 0.2273 -0.4247 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM331_Deck_Hatch_8_INDEX_1	</identifier>
+					<transform>
+						<row0>	-0.9999 -0.0009 0.0147 0.0000	</row0>
+						<row1>	0.0000 0.9982 0.0597 0.0000	</row1>
+						<row2>	-0.0147 0.0597 -0.9981 0.0000	</row2>
+						<row3>	-0.0423 0.2176 -0.2652 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM331_Deck_Hatch_8_INDEX_2	</identifier>
+					<transform>
+						<row0>	-0.0892 0.0594 -0.9942 0.0000	</row0>
+						<row1>	0.0000 0.9982 0.0597 0.0000	</row1>
+						<row2>	0.9960 0.0053 -0.0891 0.0000	</row2>
+						<row3>	-0.0763 0.2230 -0.3555 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM331_Deck_Hatch_8_INDEX_3	</identifier>
+					<transform>
+						<row0>	-0.8156 -0.0345 0.5776 0.0000	</row0>
+						<row1>	0.0000 0.9982 0.0597 0.0000	</row1>
+						<row2>	-0.5787 0.0487 -0.8141 0.0000	</row2>
+						<row3>	0.1298 0.2228 -0.3518 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MP_JM476_Gun_deck_Y2	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 -0.0333 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	Rotate_X	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0795 0.2438 1.0000	</row3>
+					</transform>
+					<node>
+						<identifier>	Roll_Back1	</identifier>
+						<transform>
+							<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+							<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+							<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+							<row3>	-0.0003 0.0000 1.0575 1.0000	</row3>
+						</transform>
+						<node>
+							<identifier>	HP_gunFire1	</identifier>
+							<transform>
+								<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+								<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+								<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+								<row3>	0.2037 0.0000 0.0000 1.0000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	HP_gunFire2	</identifier>
+							<transform>
+								<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+								<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+								<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+								<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	HP_gunFire3	</identifier>
+							<transform>
+								<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+								<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+								<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+								<row3>	-0.2031 0.0000 0.0000 1.0000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	HP_gunFireEffect	</identifier>
+							<transform>
+								<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+								<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+								<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+								<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	Roll_Back1_BlendBone	</identifier>
+							<transform>
+								<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+								<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+								<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+								<row3>	0.0003 -0.1129 -1.3012 1.0000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	Rotate_X_BlendBone	</identifier>
+						<transform>
+							<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+							<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+							<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+							<row3>	0.0000 -0.1129 -0.2438 1.0000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Rotate_Y_BlendBone	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 -0.0333 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+		<node>
+			<identifier>	Turret	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Roll_Back1_BlendBone	</node>
+		<node>	Rotate_X_BlendBone	</node>
+		<node>	Rotate_Y_BlendBone	</node>
+		<geometry>
+			<vertices>	Turret_lod1Shape.vertices	</vertices>
+			<primitive>	Turret_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Gun_skinned	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGM178_460mm_45_Type94_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.5301 -0.0220 -0.7743	</min>
+		<max>	0.5302 0.3081 1.3012	</max>
+	</boundingBox>
+</JGM178_460mm_45_Type94_lod1.visual>

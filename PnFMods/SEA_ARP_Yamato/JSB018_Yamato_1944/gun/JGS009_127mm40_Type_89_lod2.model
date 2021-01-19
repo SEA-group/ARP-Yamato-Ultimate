@@ -1,8 +1,0 @@
-<JGS009_127mm40_Type_89_lod2.model>
-	<castsShadow>	true	</castsShadow>
-	<extent>	15.0000	</extent>
-	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGS009_127mm40_Type_89_lod3	</parent>
-	<exporter>	1.6	</exporter>
-	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGS009_127mm40_Type_89_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGS009_127mm40_Type_89_lod2.model>

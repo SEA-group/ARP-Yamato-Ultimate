@@ -1,0 +1,705 @@
+<JSB039_Yamato_1945_MidFront.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidFront_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Yamato_Barbette	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>			
+			<node>
+				<identifier>	Yamato_Hover	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>		
+			<node>
+				<identifier>	Yamato_Mechanical4_left_32	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Yamato_Mechanical4_right_32	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Chassis	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Deckhouse	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Deckhouse_wire_32	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Hull_32	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Intrabow	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Mechanical_32	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Propulsor	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_SGC1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_SGC2_32	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Gun	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	I401_Stern	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_Bow	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_Bow_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidFront_crack_Bow_in	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_MidBack_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidFront_crack_MidBack_DeckHouse1	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidFront_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidFront_crack_MidBack_wire	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_hide	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_patch_MidBack_DeckHouse	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	MidFront_patch_MidBack_wire	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+						<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_wire	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront	</node>
+		<geometry>
+			<vertices>	MidFrontShape.vertices	</vertices>
+			<primitive>	MidFrontShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Yamato_Barbette	</node>
+		<geometry>
+			<vertices>	Yamato_Barbette.vertices	</vertices>
+			<primitive>	Yamato_Barbette.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Yamato_Barbette	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/Yamato_Barbette.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Yamato_Hover	</node>
+		<geometry>
+			<vertices>	Yamato_Hover.vertices	</vertices>
+			<primitive>	Yamato_Hover.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Yamato_Hover	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/Yamato_Hover.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Yamato_Mechanical4_left_32	</node>
+		<geometry>
+			<vertices>	Yamato_Mechanical4_left_32.vertices	</vertices>
+			<primitive>	Yamato_Mechanical4_left_32.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Yamato_Mechanical4	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/Yamato_Mechanical4.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Yamato_Mechanical4_right_32	</node>
+		<geometry>
+			<vertices>	Yamato_Mechanical4_right_32.vertices	</vertices>
+			<primitive>	Yamato_Mechanical4_right_32.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Yamato_Mechanical4	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/Yamato_Mechanical4.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Chassis	</node>
+		<geometry>
+			<vertices>	I401_Chassis.vertices	</vertices>
+			<primitive>	I401_Chassis.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Chassis	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Chassis.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>	
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Deckhouse	</node>
+		<geometry>
+			<vertices>	I401_Deckhouse.vertices	</vertices>
+			<primitive>	I401_Deckhouse.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Deckhouse	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Deckhouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Deckhouse_wire_32	</node>
+		<geometry>
+			<vertices>	I401_Deckhouse_wire_32.vertices	</vertices>
+			<primitive>	I401_Deckhouse_wire_32.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_I401_Deckhouse	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Deckhouse_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>	
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Hull_32	</node>
+		<geometry>
+			<vertices>	I401_Hull_32.vertices	</vertices>
+			<primitive>	I401_Hull_32.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Gun	</node>
+		<geometry>
+			<vertices>	I401_Gun.vertices	</vertices>
+			<primitive>	I401_Gun.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Gun	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Gun.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Intrabow	</node>
+		<geometry>
+			<vertices>	I401_Intrabow.vertices	</vertices>
+			<primitive>	I401_Intrabow.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Intrabow	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Intrabow.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Mechanical_32	</node>
+		<geometry>
+			<vertices>	I401_Mechanical_32.vertices	</vertices>
+			<primitive>	I401_Mechanical_32.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Mechanical	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Mechanical.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Propulsor	</node>
+		<geometry>
+			<vertices>	I401_Propulsor.vertices	</vertices>
+			<primitive>	I401_Propulsor.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Propulsor	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Propulsor.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_SGC1	</node>
+		<geometry>
+			<vertices>	I401_SGC1.vertices	</vertices>
+			<primitive>	I401_SGC1.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_SGC1	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_SGC1.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_SGC2_32	</node>
+		<geometry>
+			<vertices>	I401_SGC2_32.vertices	</vertices>
+			<primitive>	I401_SGC2_32.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_SGC2	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_SGC2.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	I401_Stern	</node>
+		<geometry>
+			<vertices>	I401_Stern.vertices	</vertices>
+			<primitive>	I401_Stern.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_I401_Stern	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Stern.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_DeckHouseShape.vertices	</vertices>
+			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow	</node>
+		<geometry>
+			<vertices>	MidFront_crack_BowShape.vertices	</vertices>
+			<primitive>	MidFront_crack_BowShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_DeckHouseShape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_inShape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBackShape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_DeckHouse1	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_DeckHouse1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_DeckHouse1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_DeckHouseShape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_inShape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_inShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_wire	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_wireShape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_hide	</node>
+		<geometry>
+			<vertices>	MidFront_hideShape.vertices	</vertices>
+			<primitive>	MidFront_hideShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBackShape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_DeckHouseShape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack_wire	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_wireShape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_wire	</node>
+		<geometry>
+			<vertices>	MidFront_wireShape.vertices	</vertices>
+			<primitive>	MidFront_wireShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/JSB039_Yamato_1945_Hull_wire.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-1.3148 -0.7343 0.0004	</min>
+		<max>	1.3095 1.4229 3.2871	</max>
+	</boundingBox>
+</JSB039_Yamato_1945_MidFront.visual>

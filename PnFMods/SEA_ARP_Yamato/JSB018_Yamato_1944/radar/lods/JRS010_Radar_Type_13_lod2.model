@@ -1,0 +1,17 @@
+<JRS010_Radar_Type_13_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/lods/JRS010_Radar_Type_13_lod3	</parent>
+	<extent>	12.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/lods/JRS010_Radar_Type_13_lod2	</nodefullVisual>
+	<animation>
+		<name>	Rotation2rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation2rpm	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation2rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS010_Radar_Type_13_lod2.model>

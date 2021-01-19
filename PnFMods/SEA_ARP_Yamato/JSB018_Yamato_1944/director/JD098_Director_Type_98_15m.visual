@@ -1,91 +1,77 @@
 <JD098_Director_Type_98_15m.visual>
-	<boundingBox>
-		<min>	-0.557789 0.000000 -0.237466	</min>
-		<max>	0.557789 0.595596 0.234289	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 		</transform>
 		<node>
 			<identifier>	Root	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
-			<node>
-				<identifier>	Rotate_Y	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.033350 0.000000 1.000000	</row3>
-				</transform>
-				<node>
-					<identifier>	MP_JM385_Director_Type_98_Mod1	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-						<row3>	0.000000 0.283218 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-				<node>
-					<identifier>	Rotate_Y_BlendBone	</identifier>
-					<transform>
-						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-						<row3>	0.000000 -0.033350 0.000000 1.000000	</row3>
-					</transform>
-				</node>
-			</node>
 			<node>
 				<identifier>	Root_BlendBone	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
+			</node>
+			<node>
+				<identifier>	Rotate_Y	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0333 0.0000 1.0000	</row3>
+				</transform>
+				<node>
+					<identifier>	Rotate_Y_BlendBone	</identifier>
+					<transform>
+						<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+						<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+						<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+						<row3>	0.0000 -0.0333 0.0000 1.0000	</row3>
+					</transform>
+				</node>
 			</node>
 		</node>
 		<node>
-			<identifier>	JD098_Director_Type_98_15m	</identifier>
+			<identifier>	Stand	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
 			<node>
-				<identifier>	JD098_Director_Type_98_15m_net	</identifier>
+				<identifier>	Rotor_net	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
 	</node>
 	<renderSet>
 		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
-		<node>	Root_BlendBone	</node>
 		<node>	Rotate_Y_BlendBone	</node>
 		<geometry>
-			<vertices>	JD098_Director_Type_98_15mShape.vertices	</vertices>
-			<primitive>	JD098_Director_Type_98_15mShape.indices	</primitive>
+			<vertices>	Rotor_netShape.vertices	</vertices>
+			<primitive>	Rotor_netShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD098_Director_Type_98_15m_skinned.mfm	</mfm>
+					<identifier>	GRID_Misc_skinned	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/C004_Grid_1_alpha_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
@@ -93,15 +79,20 @@
 	<renderSet>
 		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
 		<node>	Rotate_Y_BlendBone	</node>
+		<node>	Root_BlendBone	</node>
 		<geometry>
-			<vertices>	JD098_Director_Type_98_15m_netShape.vertices	</vertices>
-			<primitive>	JD098_Director_Type_98_15m_netShape.indices	</primitive>
+			<vertices>	StandShape.vertices	</vertices>
+			<primitive>	StandShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	GRID_Misc	</identifier>
-					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/C004_Grid_1_alpha_skinned.mfm	</mfm>
+					<identifier>	SHIPMATX_PBS_Director_skinned	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/director/JD098_Director_Type_98_15m_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
+	<boundingBox>
+		<min>	-0.5578 0.0000 -0.2375	</min>
+		<max>	0.5578 0.5956 0.2343	</max>
+	</boundingBox>
 </JD098_Director_Type_98_15m.visual>

@@ -1,0 +1,7 @@
+<JGA018_25mm_Type96_single_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/lods/JGA018_25mm_Type96_single_dead_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA018_25mm_Type96_single_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA018_25mm_Type96_single_dead.model>

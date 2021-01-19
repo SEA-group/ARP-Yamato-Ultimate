@@ -1,8 +1,0 @@
-<JGM164_460mm45_Type96_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGM164_460mm45_Type96_lod3	</parent>
-	<castsShadow>	true	</castsShadow>
-	<extent>	30.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGM164_460mm45_Type96_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGM164_460mm45_Type96_lod2.model>

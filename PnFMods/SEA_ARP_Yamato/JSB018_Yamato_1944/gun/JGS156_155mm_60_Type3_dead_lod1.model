@@ -1,8 +1,0 @@
-<JGS156_155mm_60_Type3_dead_lod1.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGS156_155mm_60_Type3_dead_lod2	</parent>
-	<castsShadow>	true	</castsShadow>
-	<extent>	8.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGS156_155mm_60_Type3_dead_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGS156_155mm_60_Type3_dead_lod1.model>

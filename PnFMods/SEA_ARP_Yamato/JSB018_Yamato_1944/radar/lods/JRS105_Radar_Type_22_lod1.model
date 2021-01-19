@@ -1,0 +1,17 @@
+<JRS105_Radar_Type_22_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/lods/JRS105_Radar_Type_22_lod2	</parent>
+	<extent>	8.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/radar/lods/JRS105_Radar_Type_22_lod1	</nodefullVisual>
+	<animation>
+		<name>	NC030_JRS105_Radar_Type_22	</name>
+		<frameRate>	15.0000	</frameRate>
+		<nodes>	content/animation/common/NC030_JRS105_Radar_Type_22	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	NC030_JRS105_Radar_Type_22	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS105_Radar_Type_22_lod1.model>

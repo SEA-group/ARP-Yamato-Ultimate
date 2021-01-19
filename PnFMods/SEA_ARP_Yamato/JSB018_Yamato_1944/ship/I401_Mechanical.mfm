@@ -6,10 +6,10 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Mechanical_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/default_n.dds	</Texture>
 	</property>
 	<property>	metallicGlossMap
-		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Mechanical_mg.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/default_mg_mechanics.dds	</Texture>
 	</property>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/default_ao.dds	</Texture>

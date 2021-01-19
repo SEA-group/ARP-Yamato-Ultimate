@@ -1,0 +1,17 @@
+<JM009_Signal_Lamp.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/misc/JM009_Signal_Lamp_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/misc/JM009_Signal_Lamp_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/misc/JM009_Signal_Lamp_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/default_ao.dds	</Texture>
+	</property>
+</JM009_Signal_Lamp.mfm>
