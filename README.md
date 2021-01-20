@@ -23,3 +23,6 @@ Currently the ModAPI cannot cover the textures of aircraft and main battery gun 
 ## 公共贴图
 本涂装的舰载机与主炮机枪座贴图无法使用PnF修改，所以使用的是传统路径，会对其他船的外观有影响，于是单独放在了另一个mod里，请根据自己的需要下载使用：
 [ARP Yamato 公用贴图包](https://github.com/SEA-group/ARP-Yamato-Common-Texture-Pack)
+
+## Preview
+![ARP-Yamato-Ultimate](https://raw.githubusercontent.com/SEA-group/ARP-Yamato-Ultimate/master/Affiche_0.jpg)
