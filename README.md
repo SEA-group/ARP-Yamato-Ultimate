@@ -1,5 +1,9 @@
 ﻿# ARP I-401 (Combined; Yamato)
 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/ARP-Yamato-Ultimate?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/ARP-Yamato-Ultimate)
+![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/ARP-Yamato-Ultimate)
+
 Skin modification for tier 10 battleship **Yamato**. 
 
 Presented by SEA group
