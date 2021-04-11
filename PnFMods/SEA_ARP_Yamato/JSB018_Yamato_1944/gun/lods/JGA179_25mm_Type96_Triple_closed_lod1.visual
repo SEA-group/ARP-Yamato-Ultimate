@@ -84,7 +84,7 @@
 			<primitive>	wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Gun	</identifier>
+					<identifier>	SHIPWIREX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA172_25mm_Type96_Triple_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

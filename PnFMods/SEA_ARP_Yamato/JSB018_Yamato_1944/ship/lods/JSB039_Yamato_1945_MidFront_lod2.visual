@@ -362,7 +362,7 @@
 			<primitive>	I401_Deckhouse_wire_32.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_I401_Deckhouse	</identifier>
+					<identifier>	SHIPWIREX_PBS_I401_Deckhouse	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/I401_Deckhouse_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
