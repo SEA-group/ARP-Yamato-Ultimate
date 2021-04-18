@@ -1,4 +1,4 @@
-<JGA010_25mm_Type96_dead.mfm>
+<JGA173_25mm_Type96_dead.mfm>
 	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
@@ -11,6 +11,6 @@
 		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA173_25mm_Type96_dead_mg.dds	</Texture>
 	</property>
 	<property>	normalMap
-		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA010_25mm_Type96_n.dds	</Texture>
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/gun/JGA173_25mm_Type96_n.dds	</Texture>
 	</property>
-</JGA010_25mm_Type96_dead.mfm>
+</JGA173_25mm_Type96_dead.mfm>
