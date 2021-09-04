@@ -1,0 +1,13 @@
+<JAB706_Kawanishi_H8K2_wire.mfm>
+	<fx>	shaders/materials/pbs/wire_material.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/JAB706_Kawanishi_H8K2_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/JAB706_Kawanishi_H8K2_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/aircraft/JAB706_Kawanishi_H8K2_n.dds	</Texture>
+	</property>
+</JAB706_Kawanishi_H8K2_wire.mfm>
