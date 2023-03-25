@@ -1,5 +1,5 @@
 <Yamato_Lens_Blue_alpha.mfm>
-	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_ARP_Yamato/JSB018_Yamato_1944/ship/Yamato_Lens_Blue_a.dds	</Texture>
